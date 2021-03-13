@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-language="English" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2" tvg-language="English" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Max
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
