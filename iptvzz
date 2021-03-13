@@ -30,11 +30,20 @@ http://truvaiptv.com:7777/ayberK/ayberK/68849?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg" group-title="Movies",HBO Comedy
 http://truvaiptv.com:7777/ayberK/ayberK/68851?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png" group-title="Movies",HBO Family
+http://fresat.live:8080/dayron/dayron/328527?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entertainment",E!
 http://truvaiptv.com:7777/ayberK/ayberK/68830?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV
+http://truvaiptv.com:7777/ayberK/ayberK/68791?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://cdn.eteknix.com/wp-content/uploads/2018/07/discovery-channel.jpg" group-title="Pampabrayt",Discovery Channel
 http://truvaiptv.com:7777/ayberK/ayberK/68824?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/452-4528513_discovery-science-logo-png-transparent-png.png" group-title="Pampabrayt",Discovery Science
 http://truvaiptv.com:7777/ayberK/ayberK/68826?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Pampabrayt",Animal Planet
+http://fresat.live:8080/dayron/dayron/328648?checkedby:iptvcat.com
