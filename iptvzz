@@ -12,6 +12,9 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="Movies",Cinemax 5 Starmax
 http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/1103?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/ActionMax" group-title="Movies",Cinemax Action
+http://truvaiptv.com:7777/ayberK/ayberK/68812?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/287-2873741_cinemax-logo-png-transparent-logo-cinemax-vector-png.png" group-title="Movies",Cinemax East
 http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/1101?checkedby:iptvcat.com
 
