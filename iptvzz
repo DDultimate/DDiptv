@@ -21,6 +21,9 @@ http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/1101?checkedby:i
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhSCFCQHP_7z2CpkOKl6CH5Z1lw5mwHpkkLQKdbGQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Food Channel
 http://truvaiptv.com:7777/ayberK/ayberK/68838?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybIHK7hELHCl_R0S-hW_jN-2dh89UhEWECkWr2euH3knjsOMJr2kE_9RByzb1d0Z32Zg&usqp=CAU" group-title="Entertainment",GEM Food
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature
 http://truvaiptv.com:7777/ayberK/ayberK/68853?checkedby:iptvcat.com
 
@@ -41,6 +44,9 @@ http://fresat.live:8080/dayron/dayron/328531?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entertainment",E!
 http://truvaiptv.com:7777/ayberK/ayberK/68830?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/E1_Entertainment_Logo_%282009%29.svg/revision/latest/scale-to-width-down/340?cb=20191222041635" group-title="Entertainment",E1 Entertainment
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibhuJUFhfrRVgTbyv2WBbUd-RKLDmzZZcHoF-Ls6E=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
