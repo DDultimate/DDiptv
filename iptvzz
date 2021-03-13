@@ -21,8 +21,8 @@ http://truvaiptv.com:7777/ayberK/ayberK/68853?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhSCFCQHP_7z2CpkOKl6CH5Z1lw5mwHpkkLQKdbGQ=s900-c-k-c0x00ffffff-no-rj" group-title="Food",Food Channel
 http://truvaiptv.com:7777/ayberK/ayberK/68838?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D1p-TKIUwAAGiR7.png",Hallmark
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D1p-TKIUwAAGiR7.png" group-title="Movies",Hallmark
 http://truvaiptv.com:7777/ayberK/ayberK/68849?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg",HBO Comedy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg" group-title="Movies",HBO Comedy
 http://truvaiptv.com:7777/ayberK/ayberK/68851?checkedby:iptvcat.com
