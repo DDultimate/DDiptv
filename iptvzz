@@ -18,11 +18,11 @@ http://truvaiptv.com:7777/ayberK/ayberK/68812?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/287-2873741_cinemax-logo-png-transparent-logo-cinemax-vector-png.png" group-title="Movies",Cinemax East
 http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/1101?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhSCFCQHP_7z2CpkOKl6CH5Z1lw5mwHpkkLQKdbGQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Food Channel
+http://truvaiptv.com:7777/ayberK/ayberK/68838?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature
 http://truvaiptv.com:7777/ayberK/ayberK/68853?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhSCFCQHP_7z2CpkOKl6CH5Z1lw5mwHpkkLQKdbGQ=s900-c-k-c0x00ffffff-no-rj" group-title="Food",Food Channel
-http://truvaiptv.com:7777/ayberK/ayberK/68838?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D1p-TKIUwAAGiR7.png" group-title="Movies",Hallmark
 http://truvaiptv.com:7777/ayberK/ayberK/68849?checkedby:iptvcat.com
@@ -42,6 +42,12 @@ http://fresat.live:8080/dayron/dayron/328531?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entertainment",E!
 http://truvaiptv.com:7777/ayberK/ayberK/68830?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQ47CXqnq5RCwTmzr9vHOa1yoAWxGBnw4MartwgEVa2bw-UeQ5L7J268NfTeT-eSKyP0&usqp=CAU" group-title="Entertainment",Travel Channel
+http://fresat.live:8080/dayron/dayron/328415?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.nydailynews.com/resizer/IctNeXI6M141Wg0FTH2slE1tZqo=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/Z7J6PDP5TVUJAOHH54VHQ5BVPI.jpg" group-title="Entertainment",MTV
+http://fresat.live:8080/dayron/dayron/328502?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV
 http://truvaiptv.com:7777/ayberK/ayberK/68791?checkedby:iptvcat.com
 
@@ -53,3 +59,12 @@ http://truvaiptv.com:7777/ayberK/ayberK/68826?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Pampabrayt",Animal Planet
 http://fresat.live:8080/dayron/dayron/328648?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2018/04/18123631/History-Logo.png" group-title="Pampabrayt",History Channel
+http://fresat.live:8080/dayron/dayron/328516?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="Pampabrayt",NatGeo
+http://fresat.live:8080/dayron/dayron/328476?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/d1/35/80d13547def96642f042e1ebc7a0e32f.png" group-title="DDkids",Nick Jr.
+http://fresat.live:8080/dayron/dayron/328471?checkedby:iptvcat.com
