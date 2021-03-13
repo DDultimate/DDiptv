@@ -51,6 +51,12 @@ http://fresat.live:8080/dayron/dayron/328502?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports",NBA TV
 http://truvaiptv.com:7777/ayberK/ayberK/68791?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e1/47/b6/e147b6d56ff37771bc7899de11268847.jpg" group-title="Sports",ESPN 1
+http://fresat.live:8080/dayron/dayron/328184?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/39/84/85/398485c586addafe1f6d95327bcffdd3.png" group-title="Sports",ESPN 2
+http://fresat.live:8080/dayron/dayron/328183?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://cdn.eteknix.com/wp-content/uploads/2018/07/discovery-channel.jpg" group-title="Pampabrayt",Discovery Channel
 http://truvaiptv.com:7777/ayberK/ayberK/68824?checkedby:iptvcat.com
 
@@ -66,5 +72,14 @@ http://fresat.live:8080/dayron/dayron/328516?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="Pampabrayt",NatGeo
 http://fresat.live:8080/dayron/dayron/328476?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/d1/35/80d13547def96642f042e1ebc7a0e32f.png" group-title="DDkids",Nick Jr.
-http://fresat.live:8080/dayron/dayron/328471?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/d1/35/80d13547def96642f042e1ebc7a0e32f.png" group-title="Super DDkids",Nick Jr.
+http://fresat.live:8080/dayron/dayron/328471
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2020/06/Disney-Channel-Logo.jpg" group-title="Super DDkids",Disney Channel
+http://fresat.live:8080/dayron/dayron/328188
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihrdUoHk1JeAPpnRZ7UppB3wuuxw4YL1A_Wmdu-Q=s900-c-k-c0x00ffffff-no-rj" group-title="Super DDkids",Disney Junior (Pacific)
+http://fresat.live:8080/dayron/dayron/328187
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/451726829414383616/yfB0MVai_400x400.jpeg" group-title="Super DDkids",Cartoon Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:iptvcat.com
