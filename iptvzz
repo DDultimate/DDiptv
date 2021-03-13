@@ -33,6 +33,12 @@ http://truvaiptv.com:7777/ayberK/ayberK/68851?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png" group-title="Movies",HBO Family
 http://fresat.live:8080/dayron/dayron/328527?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movies",HBO Zone
+http://fresat.live:8080/dayron/dayron/328524?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="Movies",HBO 2
+http://fresat.live:8080/dayron/dayron/328531?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entertainment",E!
 http://truvaiptv.com:7777/ayberK/ayberK/68830?checkedby:iptvcat.com
 
