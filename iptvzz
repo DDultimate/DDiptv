@@ -95,3 +95,8 @@ http://fresat.live:8080/dayron/dayron/328187
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/451726829414383616/yfB0MVai_400x400.jpeg" group-title="Super DDkids",Cartoon Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="Local",Beam TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+
+
