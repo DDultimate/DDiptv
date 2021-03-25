@@ -25,22 +25,40 @@ http://truvaiptv.com:7777/ayberK/ayberK/68838?checkedby:iptvcat.com
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature
-http://truvaiptv.com:7777/ayberK/ayberK/68853?checkedby:iptvcat.com
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/7798
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D1p-TKIUwAAGiR7.png" group-title="Movies",Hallmark
 http://truvaiptv.com:7777/ayberK/ayberK/68849?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg" group-title="Movies",HBO Comedy
-http://truvaiptv.com:7777/ayberK/ayberK/68851?checkedby:iptvcat.com
+http://supersonictv.live:25461/903310/034806/22897
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png" group-title="Movies",HBO Family
-http://fresat.live:8080/dayron/dayron/328527?checkedby:iptvcat.com
+http://globalentertainmentec.xyz:8000/Moshe/Moshe/7800
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movies",HBO Zone
-http://fresat.live:8080/dayron/dayron/328524?checkedby:iptvcat.com
+http://supersonictv.live:25461/903310/034806/22901
+
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="Movies",HBO (HD)
+http://latinoamericatv.vip:3334/Yan/Yan123/1126
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="Movies",HBO (too)
+http://136.243.177.164/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="Movies",HBO 2
 http://fresat.live:8080/dayron/dayron/328531?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/223-2235574_1-hbo-http-hbo-plus-logo-png.png" group-title="Movies",HBO Plus
+http://latinoamericatv.vip:3334/Yan/Yan123/1127
+
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/HboEast" group-title="Movies",HBO EAST
+http://supersonictv.live:25461/903310/034806/22894?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.netsattv.com/uploads/tv_image/sm/hbo-plus-west.jpg" group-title="Movies",HBO WEST
+http://supersonictv.live:25461/903310/034806/22895?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Color-HBO-Logo-500x250.jpg" group-title="Movies",HBO Pacific
+http://supersonictv.live:25461/903310/034806/22899
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entertainment",E!
 http://truvaiptv.com:7777/ayberK/ayberK/68830?checkedby:iptvcat.com
