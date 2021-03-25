@@ -9,8 +9,17 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1" group-title="Movies",Cinemax
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="Movies",Cinemax 5 Starmax
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/1103?checkedby:iptvcat.com
+http://supersonictv.live:25461/903310/034806/22878
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1987655.png" group-title="Movies",Cinemax More Max
+http://supersonictv.live:25461/903310/034806/22882
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4bzg944jqv0q8i7u4P3E66-5yXzGvsPP1IcfoIX2MozFBnSzvZkMGm1ZRe3OS2schh4&usqp=CAU" group-title="Movies",Cinemax More Max
+http://supersonictv.live:25461/903310/034806/22883
 
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/ActionMax" group-title="Movies",Cinemax Action
 http://truvaiptv.com:7777/ayberK/ayberK/68812?checkedby:iptvcat.com
