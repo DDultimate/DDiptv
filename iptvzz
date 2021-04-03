@@ -90,7 +90,7 @@ http://fresat.live:8080/dayron/dayron/328415?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.nydailynews.com/resizer/IctNeXI6M141Wg0FTH2slE1tZqo=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/Z7J6PDP5TVUJAOHH54VHQ5BVPI.jpg" group-title="Entertainment",MTV
 http://fresat.live:8080/dayron/dayron/328502?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="Sports",Fox Sports
+#EXTINF:-1 tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/fox-sports/resources/9dfb7c47-6c1f-4aaf-867d-4e4502b0fc4c/1108212332004208271" group-title="Sports",Fox Sports
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2019/11/images_411.jpg" group-title="Sports",NBA TV (ENG)
@@ -118,7 +118,7 @@ http://fresat.live:8080/dayron/dayron/328516?checkedby:iptvcat.com
 http://fresat.live:8080/dayron/dayron/328476?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/d1/35/80d13547def96642f042e1ebc7a0e32f.png" group-title="Super DDkids",Nick Jr.
-http://fresat.live:8080/dayron/dayron/328471
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2020/06/Disney-Channel-Logo.jpg" group-title="Super DDkids",Disney Channel
 http://fresat.live:8080/dayron/dayron/328188
