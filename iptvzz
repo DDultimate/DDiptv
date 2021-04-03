@@ -210,8 +210,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2020/06/Disney-Channel-Logo.jpg" group-title="Super DDkids",Disney Channel
 http://fresat.live:8080/dayron/dayron/328188
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihrdUoHk1JeAPpnRZ7UppB3wuuxw4YL1A_Wmdu-Q=s900-c-k-c0x00ffffff-no-rj" group-title="Super DDkids",Disney Junior (Pacific)
-http://fresat.live:8080/dayron/dayron/328187
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihrdUoHk1JeAPpnRZ7UppB3wuuxw4YL1A_Wmdu-Q=s900-c-k-c0x00ffffff-no-rj" group-title="Super DDkids",Disney Junior
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/451726829414383616/yfB0MVai_400x400.jpeg" group-title="Super DDkids",Cartoon Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:iptvcat.com
