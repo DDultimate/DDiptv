@@ -72,8 +72,17 @@ http://supersonictv.live:25461/903310/034806/22895?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Color-HBO-Logo-500x250.jpg" group-title="Movies",HBO Pacific
 http://supersonictv.live:25461/903310/034806/22899
 
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/58619ef9579fb36de67579af/1534883301435-XODBEMWFT7OJY6XIG9BQ/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p52bY8kZn6Mpkp9xtPUVLhvLurswpbKwwoDWqBh58NLxQZMhB36LmtxTXHHtLwR3w/ActionMovie_Channel_2560x1440.png" group-title="Movies",Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://hitskeeper.com/sites/default/files/2020-01/featuredimage_2.jpg" group-title="Movies",Pluto TV Comedy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entertainment",E!
 http://truvaiptv.com:7777/ayberK/ayberK/68830?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://fastly.syfy.com/sites/syfy/files/2019/04/star-trek-logo.jpg" group-title="Entertainment",Star Trek
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=150&deviceId=5efbd39f8c4ce900075d7698&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/E1_Entertainment_Logo_%282009%29.svg/revision/latest/scale-to-width-down/340?cb=20191222041635" group-title="Entertainment",E1 Entertainment
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?checkedby:iptvcat.com
@@ -88,7 +97,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://fresat.live:8080/dayron/dayron/328415?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.nydailynews.com/resizer/IctNeXI6M141Wg0FTH2slE1tZqo=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/Z7J6PDP5TVUJAOHH54VHQ5BVPI.jpg" group-title="Entertainment",MTV
-http://fresat.live:8080/dayron/dayron/328502?checkedby:iptvcat.com
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/fox-sports/resources/9dfb7c47-6c1f-4aaf-867d-4e4502b0fc4c/1108212332004208271" group-title="Sports",Fox Sports
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -96,14 +105,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u
 #EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2019/11/images_411.jpg" group-title="Sports",NBA TV (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e1/47/b6/e147b6d56ff37771bc7899de11268847.jpg" group-title="Sports",ESPN 1
-http://fresat.live:8080/dayron/dayron/328184?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/1f8a86c11b5c49c8bb90a218b4a2e3cb.png" group-title="Sports",Boxing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/39/84/85/398485c586addafe1f6d95327bcffdd3.png" group-title="Sports",ESPN 2
 http://fresat.live:8080/dayron/dayron/328183?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://cdn.eteknix.com/wp-content/uploads/2018/07/discovery-channel.jpg" group-title="Pampabrayt",Discovery Channel
-http://truvaiptv.com:7777/ayberK/ayberK/68824?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://www.itvtube.com/videos/thumbnails/400/5002_itvtube.jpg" group-title="Pampabrayt",Pluto TV Documentaries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04252241007000975faac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/452-4528513_discovery-science-logo-png-transparent-png.png" group-title="Pampabrayt",Discovery Science
 http://truvaiptv.com:7777/ayberK/ayberK/68826?checkedby:iptvcat.com
