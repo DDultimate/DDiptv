@@ -81,8 +81,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363c241
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entertainment",E!
 http://truvaiptv.com:7777/ayberK/ayberK/68830?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/military_channel.jpg" group-title="Pluto TV",Pluto TV Military
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=655&deviceId=5bb3fea0f711fd76340eebff&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://fastly.syfy.com/sites/syfy/files/2019/04/star-trek-logo.jpg" group-title="Pluto TV",Star Trek
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=150&deviceId=5efbd39f8c4ce900075d7698&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EgW8aJYVAAMmBvo.jpg" group-title="Pluto TV",Pluto TV Best Life
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/E1_Entertainment_Logo_%282009%29.svg/revision/latest/scale-to-width-down/340?cb=20191222041635" group-title="Entertainment",E1 Entertainment
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?checkedby:iptvcat.com
@@ -113,9 +119,6 @@ http://fresat.live:8080/dayron/dayron/328183?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.itvtube.com/videos/thumbnails/400/5002_itvtube.jpg" group-title="Pluto TV",Pluto TV Documentaries
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04252241007000975faac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/military_channel.jpg" group-title="Pluto TV",Pluto TV Military
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5db0ad56edc89300090d2ebb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Pampabrayt",Animal Planet
 http://fresat.live:8080/dayron/dayron/328648?checkedby:iptvcat.com
