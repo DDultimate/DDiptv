@@ -81,6 +81,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363c241
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c1/a4/6ec1a4fa0de54eab32777165fdd8b8bc.jpg" group-title="Entertainment",E!
 http://truvaiptv.com:7777/ayberK/ayberK/68830?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/01/Pluto-TV.jpg" group-title="Pluto TV",Pluto TV Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 #EXTINF:-1 tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/military_channel.jpg" group-title="Pluto TV",Pluto TV Military
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=655&deviceId=5bb3fea0f711fd76340eebff&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 
