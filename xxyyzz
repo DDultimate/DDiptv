@@ -6,17 +6,18 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="Movies",Cinemax 5 Starmax
+http://supersonictv.live:25461/903310/034806/22878
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9_400x400.jpg" group-title="Local",CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4bzg944jqv0q8i7u4P3E66-5yXzGvsPP1IcfoIX2MozFBnSzvZkMGm1ZRe3OS2schh4&usqp=CAU" group-title="Movies",Cinemax Movie Max
+http://supersonictv.live:25461/903310/034806/22883
 
-#EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2019/11/images_411.jpg" group-title="Sports",NBA TV (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg" group-title="Movies",HBO Comedy
+http://supersonictv.live:25461/903310/034806/22897
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibhuJUFhfrRVgTbyv2WBbUd-RKLDmzZZcHoF-Ls6E=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybIHK7hELHCl_R0S-hW_jN-2dh89UhEWECkWr2euH3knjsOMJr2kE_9RByzb1d0Z32Zg&usqp=CAU" group-title="Entertainment",GEM Food
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/5288608/screenshots/13626533/xxx_logo_design.jpg" group-title="Entertainment",Do_Not_Click
+http://live.redtraffic.xyz/threesome.m3u8
+
