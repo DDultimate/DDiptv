@@ -147,6 +147,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bcc82
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EgW8aJYVAAMmBvo.jpg" group-title="Pluto TV",Best Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-chno="282" tvg-id="VH1 I Love Reality" tvg-name="VH1 I Love Reality" tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="Pluto TV",VH1 I Love Reality
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=282&deviceId=5d7154fa8326b6ce4ec31f2e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/E1_Entertainment_Logo_%282009%29.svg/revision/latest/scale-to-width-down/340?cb=20191222041635" group-title="Entertainment",E1 Entertainment
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?checkedby:iptvcat.com
 
@@ -160,7 +163,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQ47CXqnq5RCwTmzr9vHOa1yoAWxGBnw4MartwgEVa2bw-UeQ5L7J268NfTeT-eSKyP0&usqp=CAU" group-title="Entertainment",Travel Channel
-http://fresat.live:8080/dayron/dayron/328415?checkedby:iptvcat.com
+http://fresat.live:8080/dayron/dayron/328415
 
 #EXTINF:-1 tvg-logo="https://hitskeeper.com/sites/default/files/2020-01/featuredimage-1.jpg" group-title="Entertainment",MTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
