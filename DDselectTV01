@@ -1,0 +1,47 @@
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml,https://raw.githubusercontent.com/Mart1nho/Pluto-TV/main/epg.xml"
+
+#################### Non PlutoTV List ####################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2016/12/cinemax-logo-e1523031626161.jpg?w=418&h=267&crop=1" group-title="Movies",Cinemax
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="Movies",Cinemax 5 Starmax
+http://supersonictv.live:25461/903310/034806/22878
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1987655.png" group-title="Movies",Cinemax More Max
+http://supersonictv.live:25461/903310/034806/22882
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4bzg944jqv0q8i7u4P3E66-5yXzGvsPP1IcfoIX2MozFBnSzvZkMGm1ZRe3OS2schh4&usqp=CAU" group-title="Movies",Cinemax Movie Max
+http://supersonictv.live:25461/903310/034806/22883
+
+#EXTINF:-1 tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Cinemax/premium-channel-cinemax-outer-max.jpg" group-title="Movies",Cinemax Outer Max
+http://supersonictv.live:25461/903310/034806/22884
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybIHK7hELHCl_R0S-hW_jN-2dh89UhEWECkWr2euH3knjsOMJr2kE_9RByzb1d0Z32Zg&usqp=CAU" group-title="Entertainment",GEM Food
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg" group-title="Movies",HBO Comedy
+http://supersonictv.live:25461/903310/034806/22897
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movies",HBO Zone
+http://supersonictv.live:25461/903310/034806/22901
+
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/HboEast" group-title="Movies",HBO EAST
+http://supersonictv.live:25461/903310/034806/22894?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.netsattv.com/uploads/tv_image/sm/hbo-plus-west.jpg" group-title="Movies",HBO WEST
+http://supersonictv.live:25461/903310/034806/22895?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Color-HBO-Logo-500x250.jpg" group-title="Movies",HBO Pacific
+http://supersonictv.live:25461/903310/034806/22899
+
+#################### PlutoTV List ####################
