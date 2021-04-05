@@ -68,6 +68,15 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnihrdUoHk1JeAPpnRZ7UppB3wuuxw4YL1A_Wmdu-Q=s900-c-k-c0x00ffffff-no-rj" group-title="DDkids",Disney Junior
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/moviefanon/images/0/03/DisneyNickelodeon_Collab_Logo.png/revision/latest?cb=20200719025144" group-title="DDkids",Nickelodeon
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa7m2nbS7Ip9dQI6AsEeNzkNgvQd_KCL3J61eACCLykS6q226jFoNSYKs_rlZP5Unqes&usqp=CAU" group-title="DDkids",Universal Kids
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
+
+#################### FOOD (NON-PlutoTV) ####################
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MSQOlnHLM7Qh3Va21bvV2Wa0KcVci3cxrkbhBqq5PV0elR7DU_fzK8GyNgDwy_8-9Hgo" group-title="Food",Food Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
 
 #################### PAMPABRAYT (NON-PlutoTV) ####################
 #EXTINF:-1, tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg" group-title="Pampabrayt",Discovery Channel UHD
@@ -92,8 +101,13 @@ http://supersonictv.live:25461/903310/034806/22123
 http://supersonictv.live:25461/903310/034806/22124
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-QySbqqW779RJOf2HwWMzjXoDigKAHaAQjW0m5PXkn6efAF6BP8pz72XpjV4sApmvlI&usqp=CAU" group-title="Pampabrayt",National Geographic Wild East UHD
 http://supersonictv.live:25461/903310/034806/22125
+#EXTINF:-1, tvg-logo="https://storage.googleapis.com/appleosophy_offset_storage/2020/01/pbs_2019_logo.png" group-title="Pampabrayt",PBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
 
 #################### ENTERTAINMENT (NON-PlutoTV) ####################
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2016/06/the-cw-logo.jpg?w=729" group-title="Entertainment",CW
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/E1_Entertainment_Logo_%282009%29.svg/revision/latest/scale-to-width-down/340?cb=20191222041635" group-title="Entertainment",E1 Entertainment
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?checkedby:iptvcat.com
@@ -111,7 +125,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
 #EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2019/11/images_411.jpg" group-title="Sports",NBA TV (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:iptvcat.com
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+
 
 #################### EXTRA (NON-PlutoTV) ####################
 
