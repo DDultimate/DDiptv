@@ -62,17 +62,17 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #################### PAMPABRAYT (NON-PlutoTV) ####################
-#EXTINF:-1, group-title="Pampabrayt"Discovery Channel UHD
+#EXTINF:-1, group-title="Pampabrayt",Discovery Channel UHD
 http://supersonictv.live:25461/903310/034806/22074
-#EXTINF:-1, group-title="Pampabrayt"Discovery Life UHD
+#EXTINF:-1, group-title="Pampabrayt",Discovery Life UHD
 http://supersonictv.live:25461/903310/034806/22075
-#EXTINF:-1, group-title="Pampabrayt"Discovery Family
+#EXTINF:-1, group-title="Pampabrayt",Discovery Family
 http://supersonictv.live:25461/903310/034806/22076
-#EXTINF:-1, group-title="Pampabrayt"Discovery Science
+#EXTINF:-1, group-title="Pampabrayt",Discovery Science
 http://supersonictv.live:25461/903310/034806/22077
-#EXTINF:-1, group-title="Pampabrayt"Discovery Velocity
+#EXTINF:-1, group-title="Pampabrayt",Discovery Velocity
 http://supersonictv.live:25461/903310/034806/22078
-#EXTINF:-1, group-title="Pampabrayt"Discovery West LHD
+#EXTINF:-1, group-title="Pampabrayt",Discovery West LHD
 http://supersonictv.live:25461/903310/034806/22079
 #EXTINF:-1, group-title="Pampabrayt",NASA TV
 http://supersonictv.live:25461/903310/034806/22121
