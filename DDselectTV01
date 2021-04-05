@@ -62,15 +62,15 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #################### PAMPABRAYT (NON-PlutoTV) ####################
-#EXTINF:-1,USA NASA TV
+#EXTINF:-1, group-title="Pampabrayt",NASA TV
 http://supersonictv.live:25461/903310/034806/22121
-#EXTINF:-1,USA Nat Geo WILD LHD
+#EXTINF:-1, group-title="Pampabrayt",Nat Geo WILD LHD
 http://supersonictv.live:25461/903310/034806/22122
-#EXTINF:-1,USA National Geographic East UHD
+#EXTINF:-1, group-title="Pampabrayt",National Geographic East UHD
 http://supersonictv.live:25461/903310/034806/22123
-#EXTINF:-1,USA National Geographic West LHD
+#EXTINF:-1, group-title="Pampabrayt",National Geographic West LHD
 http://supersonictv.live:25461/903310/034806/22124
-#EXTINF:-1,USA National Geographic Wild East UHD
+#EXTINF:-1, group-title="Pampabrayt",National Geographic Wild East UHD
 http://supersonictv.live:25461/903310/034806/22125
 
 #################### Local (NON-PlutoTV) ####################
