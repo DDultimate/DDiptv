@@ -62,6 +62,18 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #################### PAMPABRAYT (NON-PlutoTV) ####################
+#EXTINF:-1, group-title="Pampabrayt"Discovery Channel UHD
+http://supersonictv.live:25461/903310/034806/22074
+#EXTINF:-1, group-title="Pampabrayt"Discovery Life UHD
+http://supersonictv.live:25461/903310/034806/22075
+#EXTINF:-1, group-title="Pampabrayt"Discovery Family
+http://supersonictv.live:25461/903310/034806/22076
+#EXTINF:-1, group-title="Pampabrayt"Discovery Science
+http://supersonictv.live:25461/903310/034806/22077
+#EXTINF:-1, group-title="Pampabrayt"Discovery Velocity
+http://supersonictv.live:25461/903310/034806/22078
+#EXTINF:-1, group-title="Pampabrayt"Discovery West LHD
+http://supersonictv.live:25461/903310/034806/22079
 #EXTINF:-1, group-title="Pampabrayt",NASA TV
 http://supersonictv.live:25461/903310/034806/22121
 #EXTINF:-1, group-title="Pampabrayt",Nat Geo WILD LHD
@@ -136,29 +148,29 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e2f28cfb7eedb00099
 
 #################### PAMPABRAYT (PlutoTV) ####################
 
-#EXTINF:-1 tvg-chno="666" tvg-id="Pluto TV Animals" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Pampabrayt",Animals
+#EXTINF:-1 tvg-chno="666" tvg-id="Pluto TV Animals" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Pampabrayt", Animals
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/ElhFU6zUYAAm-tS.jpg" group-title="Pampabrayt",Animals (too)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/ElhFU6zUYAAm-tS.jpg" group-title="Pampabrayt", Animals (too)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/JSyEP1sxvune4VADnxJs_CWxyepSlgGGxJ_PUxLjsYsbtNDURljYzlfjwbsJvdxPaOJsPhq4NmxGaN4tF5ErYDVRkOuUHWxWKeg9LRwhFawVJHn6m_3f0pGmzjLNUzYRAE00goWc6G6zjqDN" group-title="Pampabrayt",Biography
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/JSyEP1sxvune4VADnxJs_CWxyepSlgGGxJ_PUxLjsYsbtNDURljYzlfjwbsJvdxPaOJsPhq4NmxGaN4tF5ErYDVRkOuUHWxWKeg9LRwhFawVJHn6m_3f0pGmzjLNUzYRAE00goWc6G6zjqDN" group-title="Pampabrayt", Biography
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-chno="91" tvg-id="Pluto TV Documentaries" tvg-name="Pluto TV Documentaries" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Pampabrayt",Documentaries
+#EXTINF:-1 tvg-chno="91" tvg-id="Pluto TV Documentaries" tvg-name="Pluto TV Documentaries" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Pampabrayt", Documentaries
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://www.itvtube.com/videos/thumbnails/400/5002_itvtube.jpg" group-title="Pampabrayt",Documentaries (too)
+#EXTINF:-1 tvg-logo="https://www.itvtube.com/videos/thumbnails/400/5002_itvtube.jpg" group-title="Pampabrayt", Documentaries (too)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04252241007000975faac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-chno="651" tvg-id="Pluto TV History" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Pampabrayt",History (too)
+#EXTINF:-1 tvg-chno="651" tvg-id="Pluto TV History" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Pampabrayt", History
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=651&deviceId=5a4d35dfa5c02e717a234f86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/b2f5wTXaGxYJiGsYmaL8lXdZq42tpBVgMoEM4HclfK_idROk4QGfQbs3cY-Ae489wUezGV7vJVouOeD0Ukmr_vx4iug5cmEclWCf55-qGT-JEDLMhUf33GZ0vp74YC--b6KUSbYEI2tdQzkO" group-title="Pampabrayt",History (too)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/b2f5wTXaGxYJiGsYmaL8lXdZq42tpBVgMoEM4HclfK_idROk4QGfQbs3cY-Ae489wUezGV7vJVouOeD0Ukmr_vx4iug5cmEclWCf55-qGT-JEDLMhUf33GZ0vp74YC--b6KUSbYEI2tdQzkO" group-title="Pampabrayt", History (too)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/7077623_preview.png" group-title="Pampabrayt",Nature
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/7077623_preview.png" group-title="Pampabrayt", Nature
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-chno="692" tvg-id="Naturescape" tvg-name="Naturescape" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Pampabrayt",Naturescape
+#EXTINF:-1 tvg-chno="692" tvg-id="Naturescape" tvg-name="Naturescape" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="Pampabrayt", Naturescape
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=692&deviceId=5812bd9f249444e05d09cc4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Pampabrayt",Science
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Pampabrayt", Science
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-chno="672" tvg-id="Pluto TV Science 2" tvg-name="Pluto TV Science 2" tvg-logo="https://images.pluto.tv/channels/5c12bde1314e3461d43a8e2b/colorLogoPNG.png" group-title="Pampabrayt",Science 2
+#EXTINF:-1 tvg-chno="672" tvg-id="Pluto TV Science 2" tvg-name="Pluto TV Science 2" tvg-logo="https://images.pluto.tv/channels/5c12bde1314e3461d43a8e2b/colorLogoPNG.png" group-title="Pampabrayt", Science 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c12bde1314e3461d43a8e2b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=672&deviceId=5c12bde1314e3461d43a8e2b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3a4b66_cd4ce45db17f47c19c000ed000864e04~mv2.jpg/v1/fill/w_1560,h_878,al_c,q_90/3a4b66_cd4ce45db17f47c19c000ed000864e04~mv2.jpg" group-title="Pampabrayt",Space
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3a4b66_cd4ce45db17f47c19c000ed000864e04~mv2.jpg/v1/fill/w_1560,h_878,al_c,q_90/3a4b66_cd4ce45db17f47c19c000ed000864e04~mv2.jpg" group-title="Pampabrayt", Space
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
