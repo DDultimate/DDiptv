@@ -10,6 +10,9 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9_400x400.jpg" group-title="Local",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
+#EXTINF:-1,PH GMA_News_TV
+http://supersonictv.live:25461/903310/034806/7464
+
 #################### MOVIES (NON-PlutoTV) ####################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
