@@ -62,27 +62,27 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #################### PAMPABRAYT (NON-PlutoTV) ####################
-#EXTINF:-1, group-title="Pampabrayt",Discovery Channel UHD
+#EXTINF:-1, tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg" group-title="Pampabrayt",Discovery Channel UHD
 http://supersonictv.live:25461/903310/034806/22074
-#EXTINF:-1, group-title="Pampabrayt",Discovery Life UHD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png" group-title="Pampabrayt",Discovery Life UHD
 http://supersonictv.live:25461/903310/034806/22075
-#EXTINF:-1, group-title="Pampabrayt",Discovery Family
+#EXTINF:-1, tvg-logo="https://photos.prnewswire.com/prnfull/20151013/276409LOGO" group-title="Pampabrayt",Discovery Family
 http://supersonictv.live:25461/903310/034806/22076
-#EXTINF:-1, group-title="Pampabrayt",Discovery Science
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/XW9c443L1vk/maxresdefault.jpg" group-title="Pampabrayt",Discovery Science
 http://supersonictv.live:25461/903310/034806/22077
-#EXTINF:-1, group-title="Pampabrayt",Discovery Velocity
+#EXTINF:-1, tvg-logo="https://letstalkabout.tv/wp-content/uploads/2011/04/velocity.png" group-title="Pampabrayt",Discovery Velocity
 http://supersonictv.live:25461/903310/034806/22078
-#EXTINF:-1, group-title="Pampabrayt",Discovery West LHD
+#EXTINF:-1, tvg-logo="https://brooksresources.com/wp-content/uploads/DWLogo.png" group-title="Pampabrayt",Discovery West LHD
 http://supersonictv.live:25461/903310/034806/22079
-#EXTINF:-1, group-title="Pampabrayt",NASA TV
+#EXTINF:-1, tvg-logo="https://www.komando.com/wp-content/uploads/2019/04/NasaTV.jpg" group-title="Pampabrayt",NASA TV
 http://supersonictv.live:25461/903310/034806/22121
-#EXTINF:-1, group-title="Pampabrayt",Nat Geo WILD LHD
+#EXTINF:-1, tvg-logo="https://palmettocoastmedia.com/wp-content/uploads/2018/09/nat-geo-wild-logo-featured.jpg" group-title="Pampabrayt",Nat Geo WILD LHD
 http://supersonictv.live:25461/903310/034806/22122
-#EXTINF:-1, group-title="Pampabrayt",National Geographic East UHD
+#EXTINF:-1, tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1" group-title="Pampabrayt",National Geographic East UHD
 http://supersonictv.live:25461/903310/034806/22123
-#EXTINF:-1, group-title="Pampabrayt",National Geographic West LHD
+#EXTINF:-1, tvg-logo="https://www.slovenia.info/uploads/news_2019_tuji_pr/press_release_zakljucek_ng_kampanje/national-geographic-logo.png" group-title="Pampabrayt",National Geographic West LHD
 http://supersonictv.live:25461/903310/034806/22124
-#EXTINF:-1, group-title="Pampabrayt",National Geographic Wild East UHD
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-QySbqqW779RJOf2HwWMzjXoDigKAHaAQjW0m5PXkn6efAF6BP8pz72XpjV4sApmvlI&usqp=CAU" group-title="Pampabrayt",National Geographic Wild East UHD
 http://supersonictv.live:25461/903310/034806/22125
 
 #################### Local (NON-PlutoTV) ####################
