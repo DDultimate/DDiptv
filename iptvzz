@@ -10,8 +10,6 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9_400x400.jpg" group-title="Local",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
-#EXTINF:-1,PH GMA_News_TV
-http://supersonictv.live:25461/903310/034806/7464
 
 #################### MOVIES (NON-PlutoTV) ####################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max
@@ -108,6 +106,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #################### SPORTS (NON-PlutoTV) ####################
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e1/47/b6/e147b6d56ff37771bc7899de11268847.jpg" group-title="Sports",ESPN1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
 #EXTINF:-1 tvg-logo="https://www.insidesport.co/wp-content/uploads/2019/11/images_411.jpg" group-title="Sports",NBA TV (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:iptvcat.com
