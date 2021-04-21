@@ -22,7 +22,7 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="Movies",Cinemax 5 Starmax
-http://supersonictv.live:25461/903310/034806/22878
+http://ky-tv.cc:25461/tram/tram/176010
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/287-2873741_cinemax-logo-png-transparent-logo-cinemax-vector-png.png" group-title="Movies",Cinemax East
 http://supersonictv.live:25461/903310/034806/22879
 #EXTINF:-1, tvg-logo="https://iptv.yesnet.tv/files/channels/1574852517909cinimaxwest.png" group-title="Movies",Cinemax West
