@@ -29,7 +29,7 @@ http://miarea.vip:8080/nena/nena/702
 http://miarea.vip:8080/nena/nena/701
 #EXTINF:-1, tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="Movies",Cinemax Action Max
 http://ky-tv.cc:25461/tram/tram/176011
-########EXTINF:-1, tvg-logo="https://live-radio-channels.com/pt-data/uploads/logo/us-actionmax-west-6600.jpg" group-title="Movies",Cinemax Action Max West
+#EXTINF:-1, tvg-logo="https://live-radio-channels.com/pt-data/uploads/logo/us-actionmax-west-6600.jpg" group-title="Movies",Cinemax Action Max West
 http://supersonictv.live:25461/903310/034806/61185
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1987655.png" group-title="Movies",Cinemax More Max
 http://supersonictv.live:25461/903310/034806/22882
