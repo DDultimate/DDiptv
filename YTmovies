@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzMDk5NjUxNV5BMl5BanBnXkFtZTgwMzMwOTMyMjE@._V1_.jpg" group-title="Action",The November Man
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzMDk5NjUxNV5BMl5BanBnXkFtZTgwMzMwOTMyMjE@._V1_.jpg" group-title="Action",The November Man
 https://www.youtube.com/watch?v=mq-BQ0JI95E
 
-#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/35783400-0000-0000-0000-000000000002/504/image.jpg?" group-title="Action",Mechanic Ressurection
+#EXTINF:0 tvg-logo="https://musicart.xboxlive.com/7/35783400-0000-0000-0000-000000000002/504/image.jpg?" group-title="Action",Mechanic Ressurection
 https://www.youtube.com/watch?v=uIanJoXXcpU
