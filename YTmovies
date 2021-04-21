@@ -1,18 +1,21 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1xca4TpMQL._RI_.jpg" group-title="Action",The Diplomat (Part 1)
+#EXTINF:0 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-call-2013/large_ekKVxnKeHEQiBznaEnj0VmK28bc.jpg" group-title="Saved Movies",The Call (2013)
 https://www.youtube.com/watch?v=wsq48J1uT2A
 
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Nirbg-1iL._SL1500_.jpg" group-title="Action",The Diplomat (Part 2)
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1xca4TpMQL._RI_.jpg" group-title="Saved Movies",The Diplomat Part 1 (2008)
+https://www.youtube.com/watch?v=wsq48J1uT2A
+
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Nirbg-1iL._SL1500_.jpg" group-title="Saved Movies",The Diplomat Part 2 (2008)
 https://www.youtube.com/watch?v=9JfrkHMEY8Q
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE2ZjQxNjEtNmI2ZS00ZmU0LTg4M2YtYzVhYmRiYWU0YzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Action",6 Underground
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE2ZjQxNjEtNmI2ZS00ZmU0LTg4M2YtYzVhYmRiYWU0YzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Saved Movies",6 Underground
 https://www.youtube.com/watch?v=FZooTF0YqC0
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzMDk5NjUxNV5BMl5BanBnXkFtZTgwMzMwOTMyMjE@._V1_.jpg" group-title="Action",The November Man
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzMDk5NjUxNV5BMl5BanBnXkFtZTgwMzMwOTMyMjE@._V1_.jpg" group-title="Saved Movies",The November Man
 https://www.youtube.com/watch?v=mq-BQ0JI95E
 
-#EXTINF:0 tvg-logo="https://musicart.xboxlive.com/7/35783400-0000-0000-0000-000000000002/504/image.jpg?" group-title="Action",Mechanic Ressurection
+#EXTINF:0 tvg-logo="https://musicart.xboxlive.com/7/35783400-0000-0000-0000-000000000002/504/image.jpg?" group-title="Saved Movies",Mechanic Ressurection
 https://www.youtube.com/watch?v=uIanJoXXcpU
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4ZjdlMzMtMjg0NC00ZWY3LWJhY2YtMmEyODg0NmNiMmEyXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_UY1200_CR109,0,630,1200_AL_.jpg?" group-title="James Bond 007",The World is Not Enough (1999)
@@ -39,10 +42,10 @@ https://www.youtube.com/watch?v=6E-U7uDuzbk&list=PLTJ1vUHfuf66VYArTJWM8r5fieJEDo
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI4MjBmYzItYTY5OC00OWYzLWE0NWYtZDQxNDQxM2QzYjA4XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg" group-title="James Bond 007",The Living Daylights (1987)
 https://www.youtube.com/watch?v=Uqd94m2QoEw&list=PLTJ1vUHfuf64MfqYTNJC6NyOynF6FUTSA
 
-#EXTINF:0 tvg-logo="https://flxt.tmsimg.com/assets/p9463958_p_v10_ae.jpg" group-title="SciFi",Star Trek: Into The Darkness (2013)
+#EXTINF:0 tvg-logo="https://flxt.tmsimg.com/assets/p9463958_p_v10_ae.jpg" group-title="Saved Movies",Star Trek: Into The Darkness (2013)
 https://www.youtube.com/watch?v=vFAgvYlG0fs&list=PL0Z2ZA4Zim9_i8sJJkQFJWJw8l-TIP-hI&index=1
 
-#EXTINF:0 tvg-logo="https://a.ltrbxd.com/resized/film-poster/4/1/7/3/4/1/417341-not-cinderella-s-type-0-230-0-345-crop.jpg" group-title="Romance",Not Cinderella's Type (2013)
+#EXTINF:0 tvg-logo="https://a.ltrbxd.com/resized/film-poster/4/1/7/3/4/1/417341-not-cinderella-s-type-0-230-0-345-crop.jpg" group-title="Saved Movies",Not Cinderella's Type (2013)
 https://www.youtube.com/watch?v=6jvqXxt3WNo
 
 
