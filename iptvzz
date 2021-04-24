@@ -30,19 +30,19 @@ http://miarea.vip:8080/nena/nena/701
 #EXTINF:-1, tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="Movies",Cinemax Action Max
 http://ky-tv.cc:25461/tram/tram/176011
 #EXTINF:-1, tvg-logo="https://live-radio-channels.com/pt-data/uploads/logo/us-actionmax-west-6600.jpg" group-title="Movies",Cinemax Action Max West
-http://supersonictv.live:25461/903310/034806/61185
+http://ky-tv.cc:25461/tram/tram/176012
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1987655.png" group-title="Movies",Cinemax More Max
-http://supersonictv.live:25461/903310/034806/22882
+http://ky-tv.cc:25461/tram/tram/176016
 #EXTINF:-1 tvg-logo="https://www.pickcinema.com/images/tv/logos/momax.png" group-title="Movies",Cinemax More Max West
-http://supersonictv.live:25461/903310/034806/61186
+http://ky-tv.cc:25461/tram/tram/176017
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4bzg944jqv0q8i7u4P3E66-5yXzGvsPP1IcfoIX2MozFBnSzvZkMGm1ZRe3OS2schh4&usqp=CAU" group-title="Movies",Cinemax Movie Max
-http://supersonictv.live:25461/903310/034806/22883
+http://ky-tv.cc:25461/tram/tram/176019
 #EXTINF:-1 tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Cinemax/premium-channel-cinemax-outer-max.jpg" group-title="Movies",Cinemax Outer Max
-http://supersonictv.live:25461/903310/034806/22884
+http://ky-tv.cc:25461/tram/tram/176020
 #EXTINF:-1 tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="Movies",Cinemax Thriller Max
-http://supersonictv.live:25461/903310/034806/22885
+http://ky-tv.cc:25461/tram/tram/176021
 #EXTINF:-1 tvg-logo="https://www.tvrosat.com/logos/thriller_max_east[1].png" group-title="Movies",Cinemax Thriller Max West
-http://supersonictv.live:25461/903310/034806/61187
+http://ky-tv.cc:25461/tram/tram/176023
 
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/HboEast" group-title="Movies",HBO East
 http://supersonictv.live:25461/903310/034806/22894
