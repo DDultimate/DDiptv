@@ -50,8 +50,8 @@ http://ky-tv.cc:25461/tram/tram/176044
 http://ky-tv.cc:25461/tram/tram/176050
 #EXTINF:-1 tvg-logo="https://www.pickcinema.com/images/tv/logos/hbo2.png" group-title="Movies",HBO 2 East
 http://rv.flysat.live:80/307242112467/307242112467/81215
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg" group-title="Movies",HBO Comedy
-http://185.71.64.167:80/9369407316/3938935138/81211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Hbo_comedy.jpg" group-title="Movies",HBO Comedy (HD)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39110
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png" group-title="Movies",HBO Family
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Color-HBO-Logo-500x250.jpg" group-title="Movies",HBO Pacific
@@ -59,7 +59,7 @@ http://supersonictv.live:25461/903310/034806/22899
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movies",HBO Zone
-http://ky-tv.cc:25461/tram/tram/176052
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39123
 #EXTINF:-1 tvg-logo="https://images.telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x821.png" group-title="Movies",HBO Hits
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8?checkedby:iptvcat.com
 
