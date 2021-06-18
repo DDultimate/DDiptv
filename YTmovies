@@ -18,11 +18,29 @@ https://www.youtube.com/watch?v=mq-BQ0JI95E
 #EXTINF:0 tvg-logo="https://musicart.xboxlive.com/7/35783400-0000-0000-0000-000000000002/504/image.jpg?" group-title="Saved Movies",Mechanic Ressurection
 https://www.youtube.com/watch?v=uIanJoXXcpU
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4ZjdlMzMtMjg0NC00ZWY3LWJhY2YtMmEyODg0NmNiMmEyXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_UY1200_CR109,0,630,1200_AL_.jpg?" group-title="James Bond 007",The World is Not Enough (1999)
-https://www.youtube.com/watch?v=_YHHNnRI--I&list=PLTJ1vUHfuf64YjIMzef4nTDgYlzVRPvYi
+#EXTINF:0 tvg-logo="https://flxt.tmsimg.com/assets/p9463958_p_v10_ae.jpg" group-title="Saved Movies",Star Trek: Into The Darkness (2013)
+https://www.youtube.com/watch?v=vFAgvYlG0fs&list=PL0Z2ZA4Zim9_i8sJJkQFJWJw8l-TIP-hI
 
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DQAHYSH0L._AC_SY445_.gif" group-title="James Bond 007",Tomorrow Never Dies (1997)
-https://www.youtube.com/watch?v=t4NtINk4YVI&list=PLTJ1vUHfuf65-0FFIjKN1KDnkYkrZlGMG
+#EXTINF:0 tvg-logo="https://a.ltrbxd.com/resized/film-poster/4/1/7/3/4/1/417341-not-cinderella-s-type-0-230-0-345-crop.jpg" group-title="Saved Movies",Not Cinderella's Type (2013)
+https://www.youtube.com/watch?v=6jvqXxt3WNo
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyNDkzNjA0OV5BMl5BanBnXkFtZTgwMTM1Mzc0OTE@._V1_.jpg" group-title="Saved Movies",Cyborg X (2016)
+https://www.youtube.com/watch?v=hXR9_JY5iVQ&list=PLMcPBANe-Un7MlkSyLSCO7nvX4kvp4Hrg
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY3NWNlNmQtMzMzNy00MmNlLWEzZmItYTcyZTg3MzkxNmUwXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_QL75_UY281_CR11,0,190,281_.jpg" group-title="Saved Movies",Love Sureal (2015)
+https://www.youtube.com/watch?v=LioZ9VmhgOI&list=PLMcPBANe-Un7MlkSyLSCO7nvX4kvp4Hrg&index=4
+
+#EXTINF:0 tvg-logo="https://ctsr525684tn-theplatform.akamaized.net/eSalt_Media/512/63/DanceTogether_4x3_3200x2400.jpg" group-title="Saved Movies",Dance Together (2019)
+https://www.youtube.com/watch?v=dTqQS7t9ApA
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Spectre_poster.jpg" group-title="James Bond 007",Spectre (2015)
+https://www.youtube.com/watch?v=xYoVpuUSZRQ&list=PLTJ1vUHfuf64A7M36k-l6aT-9cYXZqkcw
+
+#EXTINF:0 tvg-logo="https://townsquare.media/site/295/files/2020/11/20a86206ec15a3d88a12f22ee07fef62.jpg?w=980&q=75" group-title="James Bond 007",Skyfall (2012)
+https://www.youtube.com/watch?v=E_F5ps39zrE&list=PLTJ1vUHfuf67You6KB8H1980hbWkLzUcq
 
 #EXTINF:0 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/quantum-of-solace-2008/large_gXksXNwEk3h8tvSdhbsRp5GGJAk.jpg" group-title="James Bond 007",Quantum of Solace (2008)
 https://www.youtube.com/watch?v=vplgGF6GZ-4&list=PLTJ1vUHfuf65OqFdNwETCQ02fTz2QB7Nf
@@ -33,6 +51,12 @@ https://www.youtube.com/watch?v=BI1GFLxqyrk&list=PLTJ1vUHfuf66MwuIQkgY0NwmnC7Dhn
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNkYmIwYTMtYzdhNy00YWE3LThkYmEtNzA5ZTE5YmVjYzZlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg" group-title="James Bond 007",Die Another Day (2002)
 https://www.youtube.com/watch?v=TdG9_4JENJg&list=PLTJ1vUHfuf67oID3rxzyavIJ6lH6eIYqc
 
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4ZjdlMzMtMjg0NC00ZWY3LWJhY2YtMmEyODg0NmNiMmEyXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_UY1200_CR109,0,630,1200_AL_.jpg?" group-title="James Bond 007",The World is Not Enough (1999)
+https://www.youtube.com/watch?v=_YHHNnRI--I&list=PLTJ1vUHfuf64YjIMzef4nTDgYlzVRPvYi
+
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71DQAHYSH0L._AC_SY445_.gif" group-title="James Bond 007",Tomorrow Never Dies (1997)
+https://www.youtube.com/watch?v=t4NtINk4YVI&list=PLTJ1vUHfuf65-0FFIjKN1KDnkYkrZlGMG
+
 #EXTINF:0 tvg-logo="https://static-cdn.jtvnw.net/ttv-boxart/GoldenEye%20007.jpg" group-title="James Bond 007",GoldenEye (1995)
 https://www.youtube.com/watch?v=g-9S5TmuBrc&list=PLTJ1vUHfuf66kce3-sDOtey1-2QphZ18G
 
@@ -42,10 +66,17 @@ https://www.youtube.com/watch?v=6E-U7uDuzbk&list=PLTJ1vUHfuf66VYArTJWM8r5fieJEDo
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI4MjBmYzItYTY5OC00OWYzLWE0NWYtZDQxNDQxM2QzYjA4XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg" group-title="James Bond 007",The Living Daylights (1987)
 https://www.youtube.com/watch?v=Uqd94m2QoEw&list=PLTJ1vUHfuf64MfqYTNJC6NyOynF6FUTSA
 
-#EXTINF:0 tvg-logo="https://flxt.tmsimg.com/assets/p9463958_p_v10_ae.jpg" group-title="Saved Movies",Star Trek: Into The Darkness (2013)
-https://www.youtube.com/watch?v=vFAgvYlG0fs&list=PL0Z2ZA4Zim9_i8sJJkQFJWJw8l-TIP-hI
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ef/af/86/efaf86128a6cbb4c59470db9cc5e704b.jpg" group-title="James Bond 007",A View To A Kill (1985)
+https://www.youtube.com/watch?v=KMcCTDpiYp0&list=PLTJ1vUHfuf64lA8IJzlDyzMn7NoZBJbS_
 
-#EXTINF:0 tvg-logo="https://a.ltrbxd.com/resized/film-poster/4/1/7/3/4/1/417341-not-cinderella-s-type-0-230-0-345-crop.jpg" group-title="Saved Movies",Not Cinderella's Type (2013)
-https://www.youtube.com/watch?v=6jvqXxt3WNo
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI2MDE0NjE1NV5BMl5BanBnXkFtZTcwNjYyMzY0NA@@._V1_.jpg" group-title="James Bond 007",Octopussy (1983)
+https://www.youtube.com/watch?v=lReEZJXSKV0&list=PLTJ1vUHfuf642D72j_E45rBGqKODN0O39
+
+#EXTINF:0 tvg-logo="https://resizing.flixster.com/HRamBmMuY_Ox13w1NNhr7xQmmN0=/206x305/v2/https://flxt.tmsimg.com/assets/p7582_p_v10_al.jpg" group-title="James Bond 007",Never Say Never Again (1983)
+https://www.youtube.com/watch?v=kC9gNynHz_g&list=PLTJ1vUHfuf67eFUs669DK4hNADDc4sTsc
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ4YzUzNGQtMDNkYS00NTk5LTkyMDgtNmVkMjg5MjIzNTdmXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg" group-title="James Bond 007",For Your Eyes Only (1981)
+https://www.youtube.com/watch?v=NEVBvqx37Qk&list=PLTJ1vUHfuf65i2PQ4yO3DGp6rrXFwBEK1
+
 
 
