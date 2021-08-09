@@ -24,6 +24,31 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/Dubai-One-Logo.png" group-title="Movies",M Dubai One (English)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
 
+#EXTINF:-1 tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="Movies",Star Movies
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/120307
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTMvVBRTUl-EzxZutqNVl9UQ3qrOxeo68ynuXcRTQ=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1549439500_foxactionhd.jpg" group-title="Movies",Fox Action Movies
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27730
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Br90sgpoMyU/Vju-am0KMiI/AAAAAAAAAYQ/n1K7lzBP7hA/s1600/foxmovies.png" group-title="Movies",Fox Movies
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/1643
+
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="Movies",beIN Movies 1 Premier
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/18
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="Movies",beIN Movies 2 Action
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/21
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="Movies",beIN Movies 3 Drama
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/19
+
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="Movies",beIN Movies 4 Family
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/20
+
+
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-5-starmax-8614.jpg" group-title="Movies",Cinemax 5 Starmax
 http://dreamsmart.me:2082/Achrafplt_154397/uwFcPX9R/54256
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/287-2873741_cinemax-logo-png-transparent-logo-cinemax-vector-png.png" group-title="Movies",Cinemax East (HD)
@@ -135,10 +160,25 @@ http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/125826
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/c3Rhci5zcG9ydHMxMTFfc2NyZWVuXzBfMTU3MjY2NDA4OF8wNTM/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Sports",Sports TV NBA
 https://list.iptvcat.com/my_list/s/f0771301059ce5bd28ed208027a2e221.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Sports",beIN Sports HD
+http://ip.mooniptv.cz:80/1564996702/4897034110/163931
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBZ_dP4NHpGVMyY_tSXlTiquB5H1YDZCWJhASgM4LUL-7ocIDINQ4RmABH0Q6EvEKqRU&usqp=CAU" group-title="Sports",beIN Sports NBA HD
+http://ip.mooniptv.cz:80/1564996702/4897034110/163913
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Sports",beIN Sports 1 English HD
+http://ip.mooniptv.cz:80/1564996702/4897034110/163914
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="Sports",beIN Sports 2 English HD
+http://ip.mooniptv.cz:80/1564996702/4897034110/163918
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="Sports",beIN Sports 3 English HD
+http://ip.mooniptv.cz:80/1564996702/4897034110/163917
+
 
 #################### EXTRA (NON-PlutoTV) ####################
 
-#EXTINF:-1 group-title="Extra",Star Trek The Next Generation
+#EXTINF:-1 group-title="Extra",Star Trek - The Next Generation
 http://supersonictv.live:25461/903310/034806/81035
 #EXTINF:-1 group-title="Extra",Star Trek - Deep Space Nine
 http://supersonictv.live:25461/903310/034806/81036
@@ -363,7 +403,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f77977bd924d80007eee60c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=523&deviceId=5f77977bd924d80007eee60c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-chno="150" tvg-id="Star Trek" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Extra",Star Trek
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=150&deviceId=5efbd39f8c4ce900075d7698&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channe
 
 
 #################### SPORTS (PlutoTV) ####################
